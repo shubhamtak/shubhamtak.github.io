@@ -1,0 +1,361 @@
+body{
+    background-color: #2b2d30e1;
+    margin: 0;
+   
+}
+
+.sidebar{
+
+    display: flex;
+    flex-direction: column;
+    width:80px !important;
+    height: 750px;
+    background-color: #2b2d30;
+    text-align: center;
+    border-right: none; 
+    padding: 2px;
+
+}
+
+
+.fa-home{
+    top:10%;
+    position: absolute;
+    left: 1%;
+    color: white;
+}
+.fa-globe-europe{
+
+    top: 25%;
+    left: 1%;
+    position: absolute;
+    color: white;
+
+}
+
+
+
+.fa-info{
+    top:40%;
+    position: absolute;
+    left: 2%;
+    color: white;
+}
+
+.fa-notes-medical{
+    top:55%;
+    position: absolute;
+    left: 1%;
+    color: white;
+}
+
+.fa-truck{
+    top:70%;
+    position: absolute;
+    left: 1%;
+    color: white;
+}
+
+.fa-qrcode{
+    top:85%;
+    position: absolute;
+    left: 1%;
+    color: white;
+}
+
+.fa-cog{
+    top:100%;
+    position: absolute;
+    left: 2%;
+    color: white;
+}
+
+.fa-sign-out-alt{
+    top:110%;
+    position: absolute;
+    left: 2%;
+    color: white;
+}
+
+.navbar{
+    width:1260px !important;
+    height: 80px;
+    border: 2px;
+    background-color: #2b2d30e1;
+    text-align: center;
+    padding: 2px;
+    top: 0%;
+    position: absolute;
+    left: 6.2%;
+
+}
+
+.search{
+    position: absolute;
+    top: 20%;
+    left: 3%;
+    height: 40px;
+    width: 210px;
+    border-radius: 50px;
+    background-color:rgba(119, 136, 153, 0.479);
+    border-color: #2b2d30;
+}
+
+.fa-search{
+    position: absolute;
+    left: 17%;
+}
+
+.testbutton{
+    position: absolute;
+    top: 27%;
+    left: 25%;
+    padding: 10px;
+    background: none;
+    color: white;
+    border-bottom: 0;
+    border-top: none;
+    border-left: 0;
+    
+    }
+
+.safetybutton{
+    position: absolute;
+    top: 27%;
+    left: 35%;
+    padding: 10px;
+    background: none;
+    color: white;
+    border-bottom: 0;
+    border-top: none;
+    border-left: 0;
+    }
+
+.newsbutton{
+    position: absolute;
+    top: 27%;
+    left: 48%;
+    padding: 10px;
+    background: none;
+    color: white;
+    border-bottom: 0;
+    border-top: none;
+    border-left: 0;
+}
+
+.affectedbutton{
+    position: absolute;
+    top: 27%;
+    left: 55%;
+    padding: 10px;
+    background: none;
+    color: white;
+    border-bottom: 0;
+    border-top: none;
+    border-left: 0;
+}
+
+.firstaidbutton{
+    position: absolute;
+    top: 27%;
+    left: 65%;
+    padding: 10px;
+    background: none;
+    color: white;
+    border-bottom: 0;
+    border-top: none;
+    border-left: 0;
+}
+.servicebutton{
+    position: absolute;
+    top: 27%;
+    left: 74%;
+    padding: 10px;
+    background: none;
+    color: white;
+    border-bottom: 0;
+    border-top: none;
+    border-left: 0;
+}
+
+.aboutbutton{
+    position: absolute;
+    top: 27%;
+    left: 83%;
+    padding: 10px;
+    background: none;
+    color: white;
+    border-bottom: 0;
+    border-top: none;
+    border-left: 0;
+}
+
+.fa-user-circle{
+    position: absolute;
+    top: 15%;
+    right:3%;
+}
+
+.heading1{
+    position: absolute;
+    top: 100%;
+    left: 3%;
+    font-size: 50px;
+    color: white;
+}
+
+.richmond{
+    position: absolute;
+    top: 160%;
+    left: 33%;
+    padding: 10px;
+    border-top:0 ;
+    border-left: 0;
+    border-right: 0;
+    color: white;
+    background: none;
+
+   
+
+}
+
+.lastweekbutton{
+    position: absolute;
+    top: 160%;
+    left: 43%;
+    padding: 10px;
+    border-top:0 ;
+    border-left: 0;
+    border-right: 0;
+    color: white;
+    background: none;
+}
+
+.mapbox{
+    width:600px !important;
+    height: 350px;
+    border: 2px;
+    background-color: #477fd4e1;
+    top: 210%;
+    left: 3%;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.imgmap{
+    position: absolute;
+    border-radius: 20px;
+    left: 0%;
+}
+
+.rightbox1{
+    width:300px !important;
+    height: 350px;
+    border: 2px;
+    background-color: #33c0ade1;
+    top: 210%;
+    left: 51%;
+    position: absolute;
+    border-radius: 20px;
+}
+.imgreport{
+    position: absolute;
+    border-radius: 20px;
+    left: 0%;
+}
+
+.rightbox2{
+    width:280px !important;
+    height: 350px;
+    border: 2px;
+    background-color: #334dc0e1;
+    top: 210%;
+    left: 75%;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.imgreport2{
+    position: absolute;
+    border-radius: 20px;
+    left: 0%
+}
+
+.buttombox1{
+    width:280px !important;
+    height: 200px;
+    border: 2px;
+    background-color: #f31f77e1;
+    top: 650%;
+    left: 3%;
+    position: absolute;
+    border-radius: 20px;
+}
+.imgbed{
+    position: absolute;
+    border-radius: 20px;
+    left: 0%
+}
+
+.buttombox2{
+    width:280px !important;
+    height: 200px;
+    border: 2px;
+    background-color: #4d1ff3e1;
+    top: 650%;
+    left: 27%;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.imgcovidsym{
+    position: absolute;
+    border-radius: 20px;
+    left: 0%
+}
+
+.buttombox3{
+    width:280px !important;
+    height: 200px;
+    border: 2px;
+    background-color: #1ff331e1;
+    top: 650%;
+    left: 51%;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.donatebutton{
+    position: absolute;
+    left: 23%;
+    padding: 10px;
+    width: 150px;
+    border-radius: 20px;
+    border-color: red;
+    background-color: red;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.buttombox4{
+    width:280px !important;
+    height: 200px;
+    border: 2px;
+    background-color: #1ff3f3e1;
+    top: 650%;
+    left: 75%;
+    position: absolute;
+    border-radius: 20px;
+
+}
+.p1{
+    font-family: 'Patua One', cursive;
+    color: white;
+}
+
+.h3t{
+    font-family: 'Abril Fatface', cursive;
+    color:gold;
+    
+
+}
