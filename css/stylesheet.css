@@ -348,6 +348,12 @@ body{
     border-radius: 20px;
 
 }
+.imgnurse{
+    position: absolute;
+    border-radius: 20px;
+    left: 0%
+}
+
 .p1{
     font-family: 'Patua One', cursive;
     color: white;
